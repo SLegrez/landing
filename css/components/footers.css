@@ -12,14 +12,12 @@
   margin-top: 50px;
 }
 
-/*.second  {
-    width: 900px;
-    margin: 0px auto;
-}*/
+.second  {
+  font-size: 30px;
+}
 
-.footer ul li {
-  display: inline-block;
-  margin: 3px;
+.second a {
+  padding-left: 7px;
 }
 
 .footer a {
@@ -31,3 +29,4 @@
   color: grey;
   text-align: center;
 }
+
